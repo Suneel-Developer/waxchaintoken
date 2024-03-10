@@ -16,8 +16,7 @@ import TokenomicsSection from "./components/TokenomicsSection";
 // import "./i18n.js"
 
 import { createWeb3Modal, defaultConfig } from "@web3modal/ethers/react";
-import LanguageSwitcher from "./LanguageSwitcher.jsx";
-
+ 
 // 1. Get projectId at https://cloud.walletconnect.com
 const projectId = "8c35916a47174f4063bbc4b6fee550e5";
 
